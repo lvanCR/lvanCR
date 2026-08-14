@@ -71,7 +71,7 @@ Curso el 8.º ciclo de Ciencias de la Computación. Me interesa construir **sist
 
 | Proyecto | Descripción | Área |
 |----------|-------------|------|
-| **[MentorEdu API](https://github.com/mentoredu-app/mentoredu-api)** | API REST de una plataforma de mentoría educativa. Arquitectura por *bounded contexts* con Spring Boot 4, JWT, PostgreSQL, Spring AI y Docker (en producción). | Backend |
+| **[MentorEdu](https://github.com/mentoredu-app)** | API REST de una plataforma de mentoría educativa. Arquitectura por *bounded contexts* con Spring Boot 4, JWT, PostgreSQL, Spring AI y Docker (en producción). | Backend |
 | **[Asistente Analítico NLP](https://github.com/lvanCR/CC219-TP-TF-2026-1-CC92)** | Clasifica intención y sentimiento de mensajes de e-commerce con **BETO** (fine-tuning, F1-macro 0.887). Backend FastAPI + front React. | Data Science / NLP |
 | **[ALDIMI-Predict](https://github.com/lvanCR/aldimi-predict-risk-classification)** | Clasificación de riesgo de residentes (bajo/medio/alto) con **XGBoost** y app interactiva en Streamlit. | Machine Learning |
 | **[Jarvis-lang](https://github.com/lvanCR/Jarvis-lang)** | Compilador con sintaxis en español natural: ANTLR4 → LLVM IR → ejecutable nativo con clang. | Compiladores |
