@@ -76,8 +76,6 @@ Curso el 8.º ciclo de Ciencias de la Computación. Me interesa construir **sist
 | **[ALDIMI-Predict](https://github.com/lvanCR/aldimi-predict-risk-classification)** | Clasificación de riesgo de residentes (bajo/medio/alto) con **XGBoost** y app interactiva en Streamlit. | Machine Learning |
 | **[Jarvis-lang](https://github.com/lvanCR/Jarvis-lang)** | Compilador con sintaxis en español natural: ANTLR4 → LLVM IR → ejecutable nativo con clang. | Compiladores |
 | **[IoT — Cámaras de Frío](https://github.com/Redes-Camaras-De-Frio)** | Monitoreo de temperatura para cámaras de frío de farmacias. Arquitectura en 3 capas con Node.js, PostgreSQL y Docker. | Backend / IoT |
-| **[Filtrado de Imágenes](https://github.com/lvanCR/Filtrado-de-Imagenes)** | App web de procesamiento digital de imágenes (filtros de suavizado y realce) con OpenCV + Streamlit. | Visión / Matemática |
-
 ---
 
 ### 📊 GitHub Stats
